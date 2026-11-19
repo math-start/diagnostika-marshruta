@@ -9,7 +9,7 @@
 3. В разделе Build and deployment укажите Source: Deploy from a branch.
 4. Выберите Branch: main и Folder: /(root), затем нажмите Save.
 5. После публикации сайт будет доступен по адресу:
-   https://ggavnilnoe-ux.github.io/diagnostika-marshruta/
+   https://math-start.github.io/diagnostika-marshruta/
 
 ## Инфраструктура
 
